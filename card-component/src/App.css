@@ -13,6 +13,8 @@ body {
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
+  padding: 3rem 2rem;
+  /* gap: .5rem; */
 }
 
 .card {
